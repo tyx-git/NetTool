@@ -49,7 +49,7 @@ NetTool 是一个功能强大的 Linux 网络诊断和配置工具，专为系�
 ### 安装步骤
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/NetTool.git
+git clone https://github.com/tyx-git/NetTool.git
 cd NetTool
 
 # 添加执行权限
